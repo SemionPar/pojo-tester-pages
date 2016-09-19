@@ -1,5 +1,4 @@
 # Summary
 
-* [Introduction](README.md)
-   * What is pojo-tester?
+* [Introduction](Introduction/README.md)
 
