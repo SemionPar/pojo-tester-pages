@@ -1,2 +1,0 @@
-# pojo-tester User Guide
-
