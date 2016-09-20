@@ -1,7 +1,5 @@
 # Overview
-
-
-1. What is pojo-tester?
+ This is pojo-tester documentation for programmers.
 
 
 
